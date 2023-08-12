@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">SillionTestePleno</string>
+    <string name="uid">UID:</string>
+    <string name="id">ID:</string>
+    <string name="personal_data">Personal data</string>
+    <string name="_0000">0000</string>
+    <string name="employment">Employment</string>
+    <string name="talles">lorem ipson</string>
+    <string name="_0000_">0000</string>
+    <string name="augusto">Augusto</string>
+    <string name="date">date birth</string>
+    <string name="title">title: </string>
+    <string name="address">Address</string>
+</resources>
